@@ -16,10 +16,13 @@ body {
 
 #todobox {
   background-color: white;
-  width: 25rem;
+  width: 40rem;
 }
 
 #removeButton {
   border: 0;
   background-color: white;
+}
+input{
+  width: 35rem;
 }
